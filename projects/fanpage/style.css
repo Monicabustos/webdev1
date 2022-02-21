@@ -5,7 +5,45 @@ body {
     Background: Purple;
 }
 
-.White-text {
-    color: White;
-   
+.white-text{
+    color:aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #8a2be2;
+    max-width: 800px;
+    text-align:left;
+    margin: 0px 375px 50px;
+    font-size: 20px;
+    border-left: 5px solid white;
+    
+    
 }
+
+.blue-text{
+    color:rgb(151, 214, 253);
+   Background:rgb(100, 58, 255);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   max-width: 800px;
+   text-align: left;
+   margin: 30px 375px 0px;
+   font-size: 35px;
+   border-left: 5px solid white;
+  
+
+}
+
+.gray-text{
+    color: White;
+    background-color: rgb(201, 99, 245);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+    div{
+        text-align: center;
+    }
+
+
+
+
