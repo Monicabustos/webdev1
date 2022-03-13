@@ -1,3 +1,48 @@
-<body>
-<img src= "4flowers.gif" alt="flowers"> 
-</body>
+body {
+    background-image: 
+    url(https://web.archive.org/web/20090805103745/http://www.geocities.com/jolleen.geo/fallingleavesbg.gif) ;
+    background-color: rgb(255, 192, 237);
+   
+}
+h1{
+    font-family: Cursive, lucidia handwriting;
+    color:blueviolet;
+    border: .7em double white;
+    text-align: center;
+    max-width: auto;
+    margin:40 30 10 40;
+}
+h2{
+    font-family:Garamond;
+    color:blueviolet;
+    text-align: left;
+    max-width: auto;
+    margin: 40 10
+    
+}
+h3{
+    font-family: Garamond;
+    color: blueviolet;
+    text-align: left;
+    max-width: auto; 
+    margin: 40 10;
+    
+}
+h4{
+    font-family:Garamond;
+    color:blueviolet;
+    text-align: left;
+    max-width:auto;
+    margin: 40 10;
+}
+div{
+    text-align: center;
+   
+}
+div2{
+    text-align: center;
+    max-width: auto;
+}
+img1{
+    position: absolute;
+}
