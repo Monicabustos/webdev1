@@ -5,7 +5,7 @@ body {
    
 }
 h1{
-    font-family: Cursive, lucidia handwriting;
+    font-family: Dancingscrpit-variablefont_wght;
     color:blueviolet;
     border: .7em double white;
     text-align: center;
@@ -45,4 +45,17 @@ div2{
 }
 img1{
     position: absolute;
+
+    left: 450px;
+}
+div1{
+    position: fixed;
+
+    left: 200px;
+}
+img2{
+    position: absolute;
+
+    left: 1000;
+    margin-top: 40px;
 }
